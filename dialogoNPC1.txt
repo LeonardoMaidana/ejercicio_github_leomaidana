@@ -1,0 +1,7 @@
+LEO: Hola NPC1, como estas?
+
+NPC1: Hola, bien y vos?
+
+LEO: Genial, ¿hiciste la tarea de prototipado digital?
+
+NPC1:  
