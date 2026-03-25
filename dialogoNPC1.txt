@@ -6,4 +6,4 @@ LEO: Genial, ¿hiciste la tarea de prototipado digital?
 
 NPC1:  
 
-["dialogoNPC-SI"]
+["dialogoNPC-SI" , "dialogoNPC-NO"]
